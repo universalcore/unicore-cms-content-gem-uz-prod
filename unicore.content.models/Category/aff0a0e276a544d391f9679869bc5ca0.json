@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "aff0a0e276a544d391f9679869bc5ca0", 
+  "language": "rus_RU", 
+  "title": "\u0414\u0435\u0432\u043e\u0447\u043a\u0438-\u0433\u0435\u0440\u043e\u0438\u043d\u0438", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "girl-heroes-russian", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
