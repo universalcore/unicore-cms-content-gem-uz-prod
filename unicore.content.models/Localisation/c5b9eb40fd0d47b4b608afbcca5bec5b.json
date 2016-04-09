@@ -1,13 +1,17 @@
 {
+  "uuid": "c5b9eb40fd0d47b4b608afbcca5bec5b", 
+  "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "eng_GB", 
-  "image": null, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image": "b2a2562873f144caa98dc743ff2b1926", 
+  "logo_text": "", 
+  "logo_image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "uuid": "c5b9eb40fd0d47b4b608afbcca5bec5b"
+  "logo_description": "", 
+  "image_host": "http://thumbor.unicore.io"
 }
